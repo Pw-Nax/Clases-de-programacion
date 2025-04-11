@@ -11,7 +11,7 @@ Ingresar un número entero y mostrar si es par o impar.
 4) Comparar dos números
 Leer dos números e indicar cuál es mayor o si son iguales.
 
-###🟡 Nivel Intermedio
+### 🟡 Nivel Intermedio
 Número dentro de un rango
 Leer un número y verificar si está en el rango entre 10 y 50 (inclusive).
 
@@ -33,7 +33,7 @@ Leer un año y verificar si es bisiesto:
 
 Es bisiesto si es divisible por 4, pero no por 100, excepto si también es divisible por 400.
 
-###🔴 Nivel Difícil
+### 🔴 Nivel Difícil
 9) Ordenar tres números
 Ingresar tres números distintos e imprimirlos en orden ascendente.
 
