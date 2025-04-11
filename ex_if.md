@@ -12,10 +12,10 @@ Ingresar un número entero y mostrar si es par o impar.
 Leer dos números e indicar cuál es mayor o si son iguales.
 
 ### 🟡 Nivel Intermedio
-Número dentro de un rango
+5)Número dentro de un rango
 Leer un número y verificar si está en el rango entre 10 y 50 (inclusive).
 
-5) Clasificación de notas
+6) Clasificación de notas
 Ingresar una nota del 0 al 10 e imprimir:
 
 “Insuficiente” si está entre 0 y 3
