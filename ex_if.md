@@ -37,6 +37,7 @@ Es bisiesto si es divisible por 4, pero no por 100, excepto si también es divis
 9) Ordenar tres números
 Ingresar tres números distintos e imprimirlos en orden ascendente.
 
+10) 
 Tipo de triángulo
 Ingresar tres lados y determinar si el triángulo es:
 
@@ -46,10 +47,10 @@ Isósceles (dos lados iguales)
 
 Escaleno (todos diferentes)
 
-10) Validar contraseña
+11) Validar contraseña
 Definir una contraseña correcta en el código (por ejemplo: "admin123") y pedir al usuario que la ingrese. Verificar si es correcta o no, y mostrar un mensaje.
 
-11) Verificación de entrada a un evento
+12) Verificación de entrada a un evento
 Un usuario puede entrar a un evento si:
 
 Tiene entrada (valor 1), y
