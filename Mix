@@ -1,0 +1,68 @@
+# 🔀 Ejercicios de Lógica en C++ (Mix: if / for / while)
+
+Este documento reúne ejercicios que combinan condicionales y bucles en **C++**.  
+Se recomienda resolver cada uno pensando qué estructura es más adecuada.
+
+---
+
+## 📑 Índice
+- [🟢 Nivel Fácil](#-nivel-fácil)
+- [🟡 Nivel Intermedio](#-nivel-intermedio)
+- [🔴 Nivel Difícil](#-nivel-difícil)
+
+---
+
+## 🟢 Nivel Fácil
+
+1. **Número positivo o negativo**  
+   Indicar si un número es positivo, negativo o cero.
+
+2. **Número par o impar**  
+   Verificar si un número es par o impar.
+
+3. **Tabla de multiplicar**  
+   Pedir un número y mostrar su tabla de multiplicar del 1 al 10.
+
+4. **Contar hasta N**  
+   Imprimir los números del 1 hasta `N`.
+
+5. **Comparar dos números**  
+   Indicar cuál es mayor o si son iguales.
+
+---
+
+## 🟡 Nivel Intermedio
+
+1. **Clasificación de notas (0–10)**  
+   Mostrar: Insuficiente, Regular, Bueno, Muy bueno o Excelente.
+
+2. **Número dentro de un rango**  
+   Verificar si un número está entre 10 y 50.
+
+3. **Factorial**  
+   Calcular el factorial de un número `N`.
+
+4. **Promedio de N números**  
+   Leer `N` números y calcular el promedio.
+
+5. **Año bisiesto**  
+   Verificar si un año es bisiesto.
+
+---
+
+## 🔴 Nivel Difícil
+
+1. **Ordenar tres números**  
+   Imprimir tres números distintos en orden ascendente.
+
+2. **Tipo de triángulo**  
+   Determinar si un triángulo es equilátero, isósceles o escaleno.
+
+3. **Adivinar número secreto**  
+   El usuario intenta adivinar un número hasta acertar.
+
+4. **Número primo**  
+   Verificar si un número es primo.
+
+5. **Número capicúa**  
+   Determinar si un número entero es capicúa.
